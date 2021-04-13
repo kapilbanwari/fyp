@@ -89,7 +89,7 @@ h2 {
   
 
 h3 {
-    color: #633991;
+    color: #000;
     font-size: 33px;
     font-weight: 500;
 }
@@ -97,18 +97,18 @@ h3 {
 h4 {
     font-size: 20px;
     font-weight: 500;
-    color: #633991;
+    color: #000;
 }
 
 h5 {
     font-size: 28px;
     font-weight: 300;
-    color: #633991;
+    color: #000;
     margin-bottom: 0.7rem;
 }
 
 p {
-    color: #959094;
+    color: #000;
 }
 
 p.lead {
@@ -165,7 +165,7 @@ p.lead {
     box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.26);
     font-size: 14px;
     font-weight: 500;
-    color: #633991;
+    color: #000;
     margin: 0.5rem;
     padding: 0.7rem 1.6rem;
     line-height: 1.8;
@@ -178,7 +178,7 @@ p.lead {
 }
 
 .light-bg {
-    background-color: #faf6fb;
+    background-color: #F9B870;
 }
 
 .section {
@@ -206,11 +206,11 @@ p.lead {
 }
 
 .nav-menu.is-scrolling, .nav-menu.menu-is-open {
-    background-color: #E9E1EB;
-    /*background-image: -moz-linear-gradient(135deg, rgb(74, 13, 143) 0%, rgb(250, 42, 143) 100%);
+    background-color: #000;
+    background: -moz-linear-gradient(135deg, rgb(74, 13, 143) 0%, rgb(250, 42, 143) 100%);
     -webkit-box-shadow: 0px 5px 23px 0px rgb(0 0 0 / 10%);
     -moz-box-shadow: 0px 5px 23px 0px rgba(0, 0, 0, 0.1);
-    box-shadow: 0px 5px 23px 0px rgb(0 0 0 / 10%);*/
+    box-shadow: 0px 5px 23px 0px rgb(0 0 0 / 10%);
 }
 
 .nav-menu.is-scrolling {
@@ -228,7 +228,7 @@ p.lead {
 ----------------------*/
 
 header {
-    padding: 100px 0 0;
+    padding: 250px 0 0;
     text-align: center;
     color: #FFF;
 }
@@ -252,11 +252,11 @@ header {
 
 .bg-gradient {
     background-color: #000;
-    height: 100vh;
-    background-image: -moz-linear-gradient( 135deg, rgba(60, 8, 118, 0.8) 0%, rgba(250, 0, 118, 0.8) 100%);
+    height: 80vh;
+    /* background-image: -moz-linear-gradient( 135deg, rgba(60, 8, 118, 0.8) 0%, rgba(250, 0, 118, 0.8) 100%);
     background-image: -webkit-linear-gradient( 135deg, rgba(60, 8, 118, 0.8) 0%, rgba(250, 0, 118, 0.8) 100%);
     background-image: -ms-linear-gradient( 135deg, rgba(60, 8, 118, 0.8) 0%, rgba(250, 0, 118, 0.8) 100%);
-    /* background-image: linear-gradient( 135deg, rgba(60, 8, 118, 0.8) 0%, rgba(250, 0, 118, 0.8) 100%); */
+    background-image: linear-gradient( 135deg, rgba(60, 8, 118, 0.8) 0%, rgba(250, 0, 118, 0.8) 100%); */
 }
 
 .tagline {
@@ -404,10 +404,10 @@ header {
 
 .nav-tabs .nav-item .nav-link, .nav-tabs .nav-link:focus, .nav-tabs .nav-link:hover {
     padding: 1rem 1rem;
-    border-color: #faf6fb #faf6fb #FFF;
+    border-color: #F9B870 #F9B870 #FFF;
     font-size: 19px;
-    color: #5f2f81;
-    background: #f5eff7;
+    color: #F9B870;
+    background: #000;
 }
 
 .ml1 {
@@ -448,7 +448,7 @@ header {
 .nav-tabs .nav-link.active {
     background: #FFF;
     border-top-width: 3px;
-    border-color: #fdc172 #faf6fb #FFF;
+    border-color: #fdc172 #F9B870 #FFF;
     color: #000;
 }
 
@@ -539,9 +539,9 @@ header {
 
 .card.pricing.popular {
     border-top-width: 3px;
-    border-color: #ce75b4 #faf6fb #FFF;
+    border-color: #ce75b4 #F9B870 #FFF;
     box-shadow: 0px 12px 59px 0px rgba(36, 7, 31, 0.11);
-    color: #633991;
+    color: #000;
 }
 
 .card.pricing .card-head {
@@ -553,7 +553,7 @@ header {
     display: block;
     font-size: 45px;
     font-weight: 300;
-    color: #633991;
+    color: #000;
 }
 
 .card.pricing .card-head .price sub {
@@ -564,7 +564,7 @@ header {
 .card.pricing .list-group-item {
     border: 0;
     text-align: center;
-    color: #959094;
+    color: #000;
     padding: 1.05rem 1.25rem;
 }
 
