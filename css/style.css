@@ -73,7 +73,7 @@ h2 {
 }
 
 .ml16 {
-    color: #000;
+    color: #241F20;
     padding: 20px 0;
     font-weight: 800;
     font-size: 2.9em;
@@ -89,7 +89,7 @@ h2 {
   
 
 h3 {
-    color: #000;
+    color: #241F20;
     font-size: 33px;
     font-weight: 500;
 }
@@ -97,18 +97,18 @@ h3 {
 h4 {
     font-size: 20px;
     font-weight: 500;
-    color: #000;
+    color: #241F20;
 }
 
 h5 {
     font-size: 28px;
     font-weight: 300;
-    color: #000;
+    color: #241F20;
     margin-bottom: 0.7rem;
 }
 
 p {
-    color: #000;
+    color: #241F20;
 }
 
 p.lead {
@@ -165,7 +165,7 @@ p.lead {
     box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.26);
     font-size: 14px;
     font-weight: 500;
-    color: #000;
+    color: #241F20;
     margin: 0.5rem;
     padding: 0.7rem 1.6rem;
     line-height: 1.8;
@@ -206,7 +206,7 @@ p.lead {
 }
 
 .nav-menu.is-scrolling, .nav-menu.menu-is-open {
-    background-color: #000;
+    background-color: #241F20;
     background: -moz-linear-gradient(135deg, rgb(74, 13, 143) 0%, rgb(250, 42, 143) 100%);
     -webkit-box-shadow: 0px 5px 23px 0px rgb(0 0 0 / 10%);
     -moz-box-shadow: 0px 5px 23px 0px rgba(0, 0, 0, 0.1);
@@ -251,7 +251,7 @@ header {
 }
 
 .bg-gradient {
-    background-color: #000;
+    background-color: #241F20;
     height: 80vh;
     /* background-image: -moz-linear-gradient( 135deg, rgba(60, 8, 118, 0.8) 0%, rgba(250, 0, 118, 0.8) 100%);
     background-image: -webkit-linear-gradient( 135deg, rgba(60, 8, 118, 0.8) 0%, rgba(250, 0, 118, 0.8) 100%);
@@ -328,7 +328,7 @@ header {
     width: 70px;
     border-radius: 3px;
     margin-bottom: 1.5rem;
-    background-color: #000;
+    background-color: #241F20;
 }
 
 .circle-icon {
@@ -407,7 +407,7 @@ header {
     border-color: #F9B870 #F9B870 #FFF;
     font-size: 19px;
     color: #F9B870;
-    background: #000;
+    background: #241F20;
 }
 
 .ml1 {
@@ -449,7 +449,7 @@ header {
     background: #FFF;
     border-top-width: 3px;
     border-color: #fdc172 #F9B870 #FFF;
-    color: #000;
+    color: #241F20;
 }
 
 
@@ -541,7 +541,7 @@ header {
     border-top-width: 3px;
     border-color: #ce75b4 #F9B870 #FFF;
     box-shadow: 0px 12px 59px 0px rgba(36, 7, 31, 0.11);
-    color: #000;
+    color: #241F20;
 }
 
 .card.pricing .card-head {
@@ -553,7 +553,7 @@ header {
     display: block;
     font-size: 45px;
     font-weight: 300;
-    color: #000;
+    color: #241F20;
 }
 
 .card.pricing .card-head .price sub {
@@ -564,7 +564,7 @@ header {
 .card.pricing .list-group-item {
     border: 0;
     text-align: center;
-    color: #000;
+    color: #241F20;
     padding: 1.05rem 1.25rem;
 }
 
