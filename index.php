@@ -1,426 +1,387 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 
-
 <head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Layout</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+  <link rel="stylesheet" href="https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy.css">
+  <!-- <link href="//db.onlinewebfonts.com/c/00d5a78493aed4b11e2584ad7cceee49?family=Gilroy+ExtraBold" rel="stylesheet" type="text/css"/> -->
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="stylesheet" href="css/responsive.css">
 
-    <title>Pockket: Digital Bank for Teens & Power Packed Women
-    </title>
-    <!--
-    _________         .___      _____.__                
-    /   _____/__ __  __| _/_____/ ____\__|______   ____  
-    \_____  \|  |  \/ __ |/  _ \   __\|  \_  __ \_/ __ \ 
-    /        \  |  / /_/ (  <_> )  |  |  ||  | \/\  ___/ 
-   /_______  /____/\____ |\____/|__|  |__||__|    \___  >
-           \/           \/                            \/ 
-           -->
-  
-           <!-- Created By: https://sudofire.com/ -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Pockket is Digital Bank for Teens and Power Packed Women, empowering them with financial literacy and ease of secured financial transactions.">
-    <meta property="og:image" content="images/new-fav.png"/>
-    <meta property="og:title" content="Pockket: Digital Bank for Teens & Power Packed Women"/>
-    <meta property="og:description" content="Pockket is Digital Bank for Teens and Power Packed Women, empowering them with financial literacy and ease of secured financial transactions." />
-    <link rel="shortcut icon" type="image/png" href="images/new-fav.png"/>
-    <!-- Font -->
-    <link rel="dns-prefetch" href="//fonts.googleapis.com">
-    <link href="https://fonts.googleapis.com/css?family=Rubik:300,400,500" rel="stylesheet">
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&display=swap" rel="stylesheet">
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <!-- Themify Icons -->
-    <link rel="stylesheet" href="css/themify-icons.css">
-    <!-- Owl carousel -->
-    <link rel="stylesheet" href="css/owl.carousel.min.css">
-    <!-- Main css -->
-    <link href="css/style.css" rel="stylesheet">
-    <link href="css/responsive.css" rel="stylesheet">
 </head>
 
 <body>
+  <!-- section 1 -->
+  <div class="container-one container-fluid px-0 ">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <a class="navbar-brand" href="#">
+        <div class="logo-container-one ml-xl-5 mt-5">
+          <img src="images/logo1.png" alt="logo1" />
+        </div>
+      </a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
 
-    <!-- Nav Menu -->
+      <div class="collapse navbar-collapse mr-5 mt-5" id="navbarSupportedContent">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="https://fypmoney.zohorecruit.in/jobs/Careers">Career</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+    <div class="container-fluid">
+      <div class="row mt-5">
+        <div class="col-lg-7 col-xl-6 col-12">
+          <div class="large-container-one ml-lg-5 ml-md-5 mx-auto w-100 p-3 mt-100">
+            <span class="yellow-container-one">Digital Banking</span> <br />
+            <span class="white-container-one">for Smart</span> <br />
+            <span class="white-container-one">Teenagers</span> <br />
+          </div>
+          <div class="small-container-one ml-lg-5 ml-md-5 mx-auto w-100 p-3">
+            <span class="small-yellow-container-one">Coming soon..</span>
+          </div>
+        </div>
+        <div class="col-lg-5 col-xl-6 pr-0">
+          <div class="bgImage-container-one mr-2">
+            <img src="images/logo3.png" alt="" />
+          </div>
+        </div>
+      </div>
 
-    <div class="nav-menu fixed-top">
+  </div>
+  </div>
+  <!-- section 2 -->
+  <div class="body-container-two container-fluid">
+    <div class="row py-5 align-items-center">
+      <div class="image-container-two col-lg-6 col-md-6 col-12 text-center">
+        <div class="img-wrapper">
+          <img src="images/image1.png" />
+        </div>
+      </div>
+      <div class="text-container-two col-lg-6 col-md-6 col-12">
+        <p class="large-container-two ">FYP Money Card</p>
+        <p class="small-container-two">Coming soon...</p>
+      </div>
+    </div>
+  </div>
+  <!--section 3  -->
+  <div class="container-fluid px-lg-5 px-md-5">
+    <div class="body-container-three" id="features">
+      <div class="head-container-three">
+        <h2 class="mb-5">FypMoney Features</h2>
+      </div>
+
+      <div class="body-container-three-box row">
+        <div class=" col-xl-3 col-lg-4 col-12 col-md-6 col-sm-12  mx-auto  ">
+         <div class="box-container-three">
+
+          <div class="container-container-three">
+            <img src="images/logo4.png" class="debit-logo" alt="" />
+            <h1>Debit Card</h1>
+            <h3>Numberless Debit Card for Payments</h3>
+            <p>
+              Get Numberless Debit Card to make online & offline payments and to
+              withdraw cash from ATM.
+            </p>
+          </div>
+
+
+          </div>
+        </div>
+      
+        <div class="col-xl-3 col-lg-4 col-12 col-md-6 col-sm-12  mx-auto">
+          
+        <div class="box-container-three">
+          <div class="container-container-three">
+            <img src="images/logo5.png" alt="" />
+            <h1>Instant Transfer</h1>
+            <h3>Instant Transfer through UPI</h3>
+            <p>Make Instant Transfer to anyone ,anytime through UPI</p>
+          </div>
+        </div>
+        </div>
+        <div class="col-xl-3 col-lg-4 col-12 col-md-6 col-sm-12 mx-auto">
+        <div class="box-container-three">
+        
+          
+          <div class="container-container-three">
+     
+            <img src="images/logo6.png" alt="" />
+            <h1>Earn Money</h1>
+            <h3>Earn Money Online</h3>
+            <p>
+              Earn Money Online through partner programs,Investments & Rewards
+            </p>
+          
+          </div>
+          
+          </div>
+       
+        </div>
+        <div class=" col-xl-3 col-lg-4 col-12 col-md-6 col-sm-12  mx-auto">
+        <div class="box-container-three">
+          
+          <div class="container-container-three">
+            <img src="images/logo7.png" alt="" />
+            <h1>Investments</h1>
+            <h3>Save, Invest & Grow</h3>
+            <p>Save Money and Make Online Investments to Grow your Money</p>
+          </div>
+         </div> 
+      
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- section 4 -->
+  <div class="body-container-four container-fluid py-5">
+    <div class="row">
+      <div class="one-container-four col-lg-6">
+        <div class="img-wrapper d-block mx-auto text-center">
+          <img src="images/image2.png" alt="" />
+        </div>  
+      </div>
+      <div class="two-container-four col-lg-6 mt-md-5 ml-md-5 px-3 ml-lg-0">
+        <h1>App Features for Guard-Admin</h1>
+        <div class="box-container-four">
+          <ul class="features">
+            <li>
+              <i class="fa fa-check-circle" aria-hidden="true"></i>
+              <div class="ml-3">
+                <h4>Money Transfer</h4>
+                <p class="mt-2">Instant Pocket Money and Expense Money Transfer to "FypMoney" Accounts</p>
+              </div>
+            </li>
+            <li>
+              <i class="fa fa-check-circle" aria-hidden="true"></i>
+              <div class="ml-3">
+                <h4>
+                  Track Patterns</h4>
+                <p class="mt-2">Track Spends Patterns and Investments of Family Members</p>
+              </div>
+            </li>
+            <li>
+              <i class="fa fa-check-circle" aria-hidden="true"></i>
+              <div class="ml-3">
+                <h4>
+
+                  Transaction Alerts</h4>
+                <p class="mt-2">Real Time Alerts for Transactions</p>
+              </div>
+            </li>
+            <li>
+              <i class="fa fa-check-circle" aria-hidden="true"></i>
+              <div class="ml-3">
+                <h4>
+                  Transaction Limits</h4>
+                <p class="mt-2">Set Transaction Limits for Merchant Transactions and Cash Withdrawls for All Cards</p>
+              </div>
+            </li>
+          </ul>
+        
+        </div>
+      </div>
+    </div>
+  </div>
+
+<!-- section 5 -->
+  <div class="body-container-four container-fluid py-5">
+    <div class="row">
+      
+      <div class="two-container-four pl-xl-5   col-lg-6 mt-md-5 ml-md-5 px-3 ml-lg-0">
+        <h1>Features for Teenagers</h1>
+        <div class="box-container-four">
+          <ul class="features">
+            <li>
+              <i class="fa fa-check-circle" aria-hidden="true"></i>
+              <div class="ml-3">
+                <h4>  UPI Money Transfer</h4>
+                <p class="mt-2">Instant Money Transfer through UPI</p>
+              </div>
+            </li>
+            <li>
+              <i class="fa fa-check-circle" aria-hidden="true"></i>
+              <div class="ml-3">
+                <h4>
+                Shopping Experience</h4>
+                <p class="mt-2">Best in Class Shopping Experience with FypMoney Debit Card</p>
+              </div>
+            </li>
+            <li>
+              <i class="fa fa-check-circle" aria-hidden="true"></i>
+              <div class="ml-3">
+                <h4>
+
+                Referral Bonus</h4>
+                <p class="mt-2">Earn Reward Points on Every Spend through FypMoney and Referral Bonus</p>
+              </div>
+            </li>
+            <li>
+              <i class="fa fa-check-circle" aria-hidden="true"></i>
+              <div class="ml-3">
+                <h4>
+                Online Investments</h4>
+                <p class="mt-2">Make Online Investments in Mutual Funds</p>
+              </div>
+            </li>
+            <li>
+              <i class="fa fa-check-circle" aria-hidden="true"></i>
+              <div class="ml-3">
+                <h4>
+                Save Money</h4>
+                <p class="mt-2">Save Money for Future Desired Purchases and FypMoney will contribute to complete your
+                  Purchase</p>
+              </div>
+            </li>
+            <li>
+              <i class="fa fa-check-circle" aria-hidden="true"></i>
+              <div class="ml-3">
+                <h4>
+                Interact with FypMoney</h4>
+                <p class="mt-2">Set Transaction Limits for Merchant Transactions and Cash Withdrawls for All Cards</p>
+              </div>
+            </li>
+            <li>
+              <i class="fa fa-check-circle" aria-hidden="true"></i>
+              <div class="ml-3">
+                <h4>
+                  Transaction Limits</h4>
+                <p class="mt-2">Set Transaction Limits for Merchant Transactions and Cash Withdrawls for All Cards</p>
+              </div>
+            </li>
+
+
+          </ul>
+       
+        </div>
+      </div>
+      <div class="one-container-four col-lg-6">
+        <div class="img-wrapper d-block mx-auto text-center">
+          <img src="images/image3.png" alt="" />
+        </div>  
+      </div>
+    </div>
+  </div>
+
+  <!-- section 6 -->
+  <div class="body-container-six container-fluid">
+    <div class="row align-items-center">
+      <div class="one-container-six col-lg-6 col-md-6 col-12 text-center">
+        <img src="images/image4.png" alt="" />
+      </div>
+      <div class="two-container-six col-lg-6 col-md-6 col-12 ">
+        <div class="yellow-text-container-six text-align-center w-100">
+          <span>Coming soon...</span>
+        </div>
+        <div class="download-container-six w-100">
+          <p>Download Anywhere</p>
+          <div class="container-container-six ">
+            <div>
+              <button class="button-container-six container-fluid px-xl-4">
+                <img src="images/app store_logo.svg
+                  " alt="" height="25px" width="30px" />
+                <span class="btn-container-six ml-xl-3">App Store</span>
+              </button>
+            </div>
+
+            <div>
+              <button class="button-container-six ml-xl-5 px-xl-4">
+                <img src="images/Google play_logo.svg" alt="" height="25px" width="30px" />
+                <span class="btn-container-six ml-xl-3">Google Play</span>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- section 7 -->
+  <div class="container">
+    <div class="row">
+      <div class="col-xl-6 col-lg-6 col-12">
+        <div class="body-container-seven" id="contact">
+          <div class="one-container-seven">
+            <div class="img-container-seven">
+              <img src="images/logo1.png" alt="" />
+            </div>
+            <div class="text-container-seven">
+              <span>
+                FypMoney is Digital Bank for Teenagers, empowering them with
+                financial literacy and ease of secured financial transactions. With
+                FypMoney UPI & Debit Card you can make online and offline payments
+                without setting up a Bank Account.
+              </span>
+            </div>
+            <div class="logo-container-seven">
+              <div>
+                <img src="images/facebook.svg" alt="" />
+              </div>
+              <div>
+                <img src="images/twitter.svg" alt="" />
+              </div>
+              <div>
+                <img src="images/instagram@2x.png" alt="" />
+              </div>
+            </div>
+            <div class="header-section d-lg-none d-xl-none d-md-block d-block mt-5">
+              <a href="https://fypmoney.zohorecruit.in/jobs/Careers" target="_blank" class="font-white">Careers</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-xl-6 col-lg-6 col-12 mt-xl-5  ">
+        <div class="two-container-seven">
+          <div class="text-container-seven">
+            <p>Get in touch</p>
+          </div>
+          <div class="container-mail">
+            <?php include 'contact.php';?>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- copyright -->
+  <section class="copyright mt-5">
+    <div class="bg-copyright">
         <div class="container-fluid">
-            <div class="row">
-                <div class="col-md-12">
-                    <nav class="navbar navbar-dark navbar-expand-lg">
-                        <a class="navbar-brand" href="index.php">
-                            <div class="logo-wrapper">
-                                <img src="images/image.png" class="img-fluid" alt="logo">
-                            </div>
-                        </a> <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
-                        <div class="collapse navbar-collapse" id="navbar">
-                            <ul class="navbar-nav ml-auto">
-                                <li class="nav-item"> <a class="nav-link active" href="#home">Home <span class="sr-only">(current)</span></a> </li>
-                                <li class="nav-item"> <a class="nav-link" href="#contact">About Us</a> </li>
-                                <li class="nav-item"> <a class="nav-link" href="#features">Features</a> </li>
-                                <li class="nav-item"> <a class="nav-link" href="#contact">Contact</a> </li>
-                                
-                            </ul>
-                        </div>
-                    </nav>
-                </div>
-            </div>
-        </div>
-    </div>
-
-
-    <header class="bg-gradient" id="home">
-        <div class="container-fluid px-lg-5">
-            <div class="row align-items-baseline">
-                <div class="col-lg-7 col-md-7 col-12">
-                    <div class="img-holder mt-lg-0 mt-md-0 mt-5">
-                        <h1 class="text-left">Digital Banking for Smart Teens &<br>
-                            Power Packed Women
-                            </h1>
-                            <h2 class="text-left mt-3 text-animation">Coming Soon...</h2>
-                    </div>
-                </div>
-                <div class="col-lg-5 col-md-5 col-12 mt-lg-5 mt-md-5">
-                    <div class="banner-img-wrapper">
-                        <img src="images/123.png">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </header>
-
-    <div class="section">
-
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-6">
-                    <div class="">
-                        <img src="images/card-overlay.png" alt="perspective phone" class="img-fluid">
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="box-icon"><img src="images/fav.png"></div>
-                    
-                    <h1 class="ml16">Coming Soon...</h1>
-                    <!-- <p class="mb-4">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Obcaecati vel exercitationem eveniet vero maxime ratione </p>
-                    <a href="#" class="btn btn-primary">Read more</a> -->
-                </div>
-            </div>
-            
-        </div>
-
-    </div>
-    <div class="section light-bg mt-5" id="features">
-        <div class="container">
-            <div class="section-title">
-                <h3>Pockket Features</h3>
-            </div>
-
-            <ul class="nav nav-tabs nav-justified" role="tablist">
-                <li class="nav-item">
-                    <a class="nav-link active" data-toggle="tab" href="#communication">Debit Card</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" data-toggle="tab" href="#schedule">Instant Transfer</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" data-toggle="tab" href="#messages">Earn Money</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" data-toggle="tab" href="#livechat">Investments</a>
-                </li>
-            </ul>
-            <div class="tab-content">
-                <div class="tab-pane fade show active" id="communication">
-                    <div class="d-flex flex-column flex-lg-row align-items-center">
-                        <img src="images/graphic.png" alt="graphic" class="img-fluid rounded align-self-start mr-lg-5 mb-5 mb-lg-0">
-                        <div>
-
-                            <h2>Numberless Debit Card for Payments</h2>
-                            <p>Get Numberless Debit Card to make online & offline payments and to withdraw cash from ATM</p>
-                            
-                        </div>
-                    </div>
-                </div>
-                <div class="tab-pane fade" id="schedule">
-                    <div class="d-flex flex-column flex-lg-row align-items-center justify-content-between">
-                        <div>
-                            <h2>Instant Transfer through UPI</h2>
-                            <p>Make Instant Transfer to anyone, anytime through UPI
-                                </p>
-                        </div>
-                        <img src="images/graphic.png" alt="graphic" class="img-fluid rounded align-self-start mr-lg-5 mb-5 mb-lg-0">
-                    </div>
-                </div>
-                <div class="tab-pane fade" id="messages">
-                    <div class="d-flex flex-column flex-lg-row align-items-center">
-                        <img src="images/graphic.png" alt="graphic" class="img-fluid rounded align-self-start mr-lg-5 mb-5 mb-lg-0">
-                        <div>
-                            <h2>Earn Money Online</h2>
-                            <p>Earn Money Online through partner programs, Investments & Rewards.
-                                
-                                </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="tab-pane fade" id="livechat">
-                    <div class="d-flex flex-column flex-lg-row align-items-center justify-content-between">
-                        <div>
-                            <h2>Save, Invest & Grow</h2>
-                            <p>Save Money and Make Online Investments to Grow your Money</p>
-                            
-                        </div>
-                        <img src="images/graphic.png" alt="graphic" class="img-fluid rounded align-self-start mr-lg-5 mb-5 mb-lg-0">
-                    </div>
-                </div>
-            </div>
-
-
-        </div>
-    </div>
-
-
-
-    <div class="section light-bg">
-
-        <div class="container">
-            <div class="row">
+            <div class="row justify-content-center align-items-center">
                 <div class="col-12 text-center">
-                    <h3>App Features for Guard- Admin</h3>
-                </div>
-            </div>
-            <div class="row mt-5">
-                <div class="col-md-6 d-flex align-items-top">
-                    <ul class="list-unstyled ui-steps">
-                        <li class="media">
-                            <div class="circle-icon mr-4">1</div>
-                            <div class="media-body">
-                                <h5>Money Transfer</h5>
-                                <p>Instant Pocket Money and Expense Money Transfer to “Pockket” Accounts</p>
-                            </div>
-                        </li>
-                        <li class="media my-4">
-                            <div class="circle-icon mr-4">2</div>
-                            <div class="media-body">
-                                <h5>Track Patterns</h5>
-                                <p>Track Spends Patterns and Investments of Family Members.</p>
-                            </div>
-                        </li>
-                        <li class="media">
-                            <div class="circle-icon mr-4">3</div>
-                            <div class="media-body">
-                                <h5>Transactions Alerts</h5>
-                                <p>Real Time Alerts for Transactions</p>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-                <div class="col-md-6 d-flex align-items-top">
-                    <ul class="list-unstyled ui-steps">
-                        <li class="media">
-                            <div class="circle-icon mr-4">4</div>
-                            <div class="media-body">
-                                <h5>Card Misplaced</h5>
-                                <p>Enable/Disable Card any time if misplaced</p>
-                            </div>
-                        </li>
-                        <li class="media my-4">
-                            <div class="circle-icon mr-4">5</div>
-                            <div class="media-body">
-                                <h5>Transaction Limits</h5>
-                                <p>Set Transaction Limits for Merchant Transactions and Cash Withdrawals for all cards.</p>
-                            </div>
-                        </li>
-                    </ul>
+                    <p class="py-2 text-bold font-white mb-0 font-12">
+                        © Pockket Payment Technologies Pvt. Ltd. 2021 | All Rights Reserved
+                    </p>
                 </div>
             </div>
         </div>
     </div>
-    <div class="section light-bg">
-
-        <div class="container">
-            <div class="row">
-                <div class="col-12 text-center">
-                    <h3>Features for Teen’s & Power Packed Women</h3>
-                </div>
-            </div>
-            <div class="row mt-5">
-                <div class="col-md-6 d-flex align-items-top">
-                    <ul class="list-unstyled ui-steps">
-                        <li class="media my-4">
-                            <div class="circle-icon mr-4">1</div>
-                            <div class="media-body">
-                                <h5> UPI Money Transfer</h5>
-                                <p>Instant Money Transfer through UPI</p>
-                            </div>
-                        </li>
-                        <li class="media my-4">
-                            <div class="circle-icon mr-4">2</div>
-                            <div class="media-body">
-                                <h5>Shopping Experience</h5>
-                                <p>Best in Class Shopping Experience with Pockket Debit Card. </p>
-                            </div>
-                        </li>
-                        <li class="media my-4">
-                            <div class="circle-icon mr-4">3</div>
-                            <div class="media-body">
-                                <h5>Referral Bonus</h5>
-                                <p>Earn Reward Points on Every Spend through Pockket and Referral Bonus</p>
-                            </div>
-                        </li>
-                        <li class="media my-4">
-                            <div class="circle-icon mr-4">4</div>
-                            <div class="media-body">
-                                <h5>Online Investments</h5>
-                                <p>Make Online Investments in Mutual Funds.</p>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-                <div class="col-md-6 d-flex align-items-top">
-                    <ul class="list-unstyled ui-steps">
-                        <li class="media my-4">
-                            <div class="circle-icon mr-4">5</div>
-                            <div class="media-body">
-                                <h5>Save Money</h5>
-                                <p>Save Money for Future Desired Purchases and Pockket will contribute to complete your Purchase.</p>
-                            </div>
-                        </li>
-                        <li class="media my-4">
-                            <div class="circle-icon mr-4">6</div>
-                            <div class="media-body">
-                                <h5>Interact with Pockket</h5>
-                                <p>Learn & Interact with Pockket Social Community with common interest.</p>
-                            </div>
-                        </li>
-                        <li class="media my-4">
-                            <div class="circle-icon mr-4">7</div>
-                            <div class="media-body">
-                                <h5>Real Time Alerts</h5>
-                                <p>Real Time Alerts for Transactions</p>
-                            </div>
-                        </li>
-                        <li class="media my-4">
-                            <div class="circle-icon mr-4">8</div>
-                            <div class="media-body">
-                                <h5>Interact with Pockket</h5>
-                                <p>Learn & Interact with Pockket Social Community with common interest.</p>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- <div class="section pt-0">
-        <div class="container">
-            <div class="section-title">
-                <small>FAQ</small>
-                <h3>Frequently Asked Questions</h3>
-            </div>
-
-            <div class="row pt-4">
-                <div class="col-md-6">
-                    <h4 class="mb-3">Can I try before I buy?</h4>
-                    <p class="light-font mb-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer rutrum, urna eu pellentesque pretium, nisi nisi fermentum enim, et sagittis dolor nulla vel sapien. Vestibulum sit amet mattis ante. </p>
-                    <h4 class="mb-3">What payment methods do you accept?</h4>
-                    <p class="light-font mb-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer rutrum, urna eu pellentesque pretium, nisi nisi fermentum enim, et sagittis dolor nulla vel sapien. Vestibulum sit amet mattis ante. </p>
-
-                </div>
-                <div class="col-md-6">
-                    <h4 class="mb-3">Can I change my plan later?</h4>
-                    <p class="light-font mb-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer rutrum, urna eu pellentesque pretium, nisi nisi fermentum enim, et sagittis dolor nulla vel sapien. Vestibulum sit amet mattis ante. </p>
-                    <h4 class="mb-3">Do you have a contract?</h4>
-                    <p class="light-font mb-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer rutrum, urna eu pellentesque pretium, nisi nisi fermentum enim, et sagittis dolor nulla vel sapien. Vestibulum sit amet mattis ante. </p>
-
-                </div>
-            </div>
-        </div>
-
-    </div> -->
-    <div class="section bg-gradient h-auto">
-        <div class="container">
-            <div class="call-to-action">
-
-                <div class="box-icon">
-                    <!-- <span class="ti-mobile gradient-fill ti-3x"></span> -->
-                    <img src="images/100x100.png">
-                </div>
-                <h2 class="pb-3">Download Anywhere</h2>
-                <h1 class="ml1">
-                    <span class="text-wrapper">
-                        <span class="line line1"></span>
-                        <span class="letters">COMING SOON</span>
-                        <span class="line line2"></span>
-                    </span>
-                </h1>
-                <div class="my-5">
-                    <a href="javascript:void(0)" class="btn btn-light"><img src="images/appleicon.png" alt="icon"> App Store</a>
-                    <a href="javascript:void(0)" class="btn btn-light"><img src="images/playicon.png" alt="icon"> Google play</a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="light-bg py-5" id="contact">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-7 text-center text-lg-left">
-                    <div class="d-flex footer-text">
-                        <div class="box-icon">
-                            <img src="images/fav.png">
-                        </div>
-                        <p class="ml-3 text-justify">Pockket is Digital Bank for Teens and Power Packed Women, empowering them with financial literacy and ease of secured financial transactions. With Pockket UPI & Debit Card you can make online and offline payments without setting up a Bank Account.</p>
-                    </div>
-                    <div class="social-icons">
-                        <a href="#"><span class="ti-facebook"></span></a>
-                        <a href="#"><span class="ti-twitter-alt"></span></a>
-                        <a href="#"><span class="ti-instagram"></span></a>
-                    </div>
-                </div>
-                <div class="col-lg-1"></div>
-                <!-- <div class="col-lg-4 text-lg-center"> -->
-                    <!-- <div class="mt-3">
-                        <p class="mb-2"> <span class="ti-location-pin mr-2"></span> 1485 Pacific St, Brooklyn, NY 11216 USA</p>
-                        <div class=" d-block d-sm-inline-block">
-                            <p class="mb-2">
-                                <span class="ti-email mr-2"></span> <a class="mr-4" href="mailto:support@mobileapp.com">support@mobileapp.com</a>
-                            </p>
-                        </div>
-                        <div class="d-block d-sm-inline-block">
-                            <p class="mb-0">
-                                <span class="ti-headphone-alt mr-2"></span> <a href="tel:51836362800">518-3636-2800</a>
-                            </p>
-                        </div> 
-                    </div> -->
-                <!-- </div> -->
-                <div class="light-bg col-lg-4" id="contact-form">
-                    <div class="row justify-content-center">
-                        <div class="col-12 mt-lg-0 mt-md-0 mt-5 text-center">
-                            <h6>Enter Your Enquiry Here</h6>
-                        </div>
-                        <div class="col-12">
-                            <?php
-                            include 'enquiry.php';
-                            ?>
-                    
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-        </div>
-
-    </div>
-<!--     
-    <footer class="my-1 text-center">
-        <p class="mb-2"><small>Created by <a href="https://sudofire.com/" target="_blank" class="text-danger">Sudofire</a></small></p>
-    </footer> -->
-    <script src="js/jquery-3.2.1.min.js"></script>
-    <script src="js/bootstrap.bundle.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
-    <script src="js/owl.carousel.min.js"></script>
-    <script src="js/script.js"></script>
-
+</section>
 </body>
+
+<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+<script>
+  var menuList = document.getElementById("menu-list");
+  menuList.style.maxHeight = "0px";
+  function toggle() {
+    if (menuList.style.maxHeight == "0px") {
+      menuList.style.maxHeight = "200px";
+    } else {
+      menuList.style.maxHeight = "0px";
+    }
+  }
+</script>
 
 </html>
