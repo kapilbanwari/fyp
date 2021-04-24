@@ -87,7 +87,7 @@ aside {
   color: #f7aa11;
   font-family: "Gilroy ExtraBold";
   font-weight: bolder;
-  font-size: 70px;
+  font-size: 60px;
   margin-top: 0px;
 }
 .white-container-one {
@@ -129,7 +129,7 @@ ul.features li {
 
 .large-container-two {
   font-family: "Gilroy ExtraBold";
-  font-size: 70px;
+  font-size: 60px;
   font-weight: bolder;
   margin-bottom: 30px;
   font-weight: 900;
@@ -152,7 +152,7 @@ ul.features li {
   font-family: "Product Sans", sans-serif;
   color: #fff;
   font-weight: 900;
-  font-size: 45px;
+  font-size: 32px;
 }
 .body-container-three-box {
   align-items: center;
@@ -191,7 +191,7 @@ ul.features li {
 .container-container-three h3 {
   font-family: "Product Sans Regular";
 
-  font-size: 15px;
+  font-size: 18px;
   padding-top: 15px;
   color: rgba(255, 255, 255, 0.7);
 }
@@ -199,7 +199,7 @@ ul.features li {
   font-family: "Product Sans Regular";
   justify-content: left;
   padding-top: 15px;
-  font-size: 14px;
+  font-size: 16px;
   color: rgba(255, 255, 255, 0.7);
 }
 
@@ -222,7 +222,7 @@ i {
   padding-left: 60px;
 }
 .two-container-four h1 {
-  font-size: 45px;
+  font-size: 32px;
   font-weight: 900;
   font-family: "Product Sans", sans-serif;
 }
@@ -231,12 +231,12 @@ i {
 }
 .box-container-four h4 {
   font-family: "Product Sans", sans-serif;
-  font-size: 20px;
+  font-size: 16px;
   font-weight: 600;
   color: #5a5a5a;
 }
 .box-container-four p {
-  margin-top: -20px;
+  margin-top: -16px;
   font-family: "Product Sans", sans-serif;
   font-size: 18px;
   color: #5a5a5a;
